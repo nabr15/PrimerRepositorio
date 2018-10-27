@@ -2,7 +2,6 @@
 ## BioConciencia
 
 Entorno limpio
-
 <br>
 Participantes <br>
 
