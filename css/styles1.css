@@ -1,0 +1,116 @@
+body{
+   /* border: black solid 2px;*/
+   background: #DDE3E7;
+   /* overflow:x hidden y scroll;*/
+   box-sizing: border-box;
+}
+
+header{
+    background: #F2F2F2;
+    padding: 40px;
+    text-align: center;
+    margin-top: -10px;
+}
+.encabezado{
+    width: 32%;
+    display: inline-table;
+   /* border: green solid 1px;*/
+    
+    box-sizing: border-box;
+    text-align: center;
+}
+.contenedor1{
+    width: 49%;
+    height: 99%;
+    display: inline-table;
+    box-sizing: border-box;
+    background: black;
+    color: white;
+    margin-left: -10px;
+}
+.contenedor2{
+    width: 49%;
+    height: 99%;
+    background: #DDE3E7;
+    display: inline-table;
+    box-sizing: border-box;
+    margin-left: -5px;
+}
+main{
+    height: 900px;
+}
+ /*footer{
+   background:  rgba(255, 0, 0, 0.3);
+    height: 200px;
+    width: 100%;
+    box-sizing: border-box;  
+    float: inherit;
+    position: fixed; /*ubicacion del dv dentro del contenedor
+    top: 0px; 
+    right: 0px;
+}*/
+.texto:hover{
+    position: relative;
+    bottom: 7px;
+}
+.texto{
+    font-size: 1.14286rem;
+    width: 150px;
+    font-family: sans-serif;
+    
+}
+.modulos{
+    font-size: 22px;
+    text-align: center;
+}
+.modulos:hover{
+    position: relative;
+    bottom: 7px;
+}
+.image{
+    width: 10%;
+    height: 10%;
+    opacity: 0.2;
+    
+}
+.imageC{
+    width: 30px;
+    height: 20px;
+    opacity: 0.2;
+}
+.contenedor1text{
+    font-size: 50px;
+}
+.contenedor1text1{
+    font-size: 22px;
+}
+.contenedor1img{
+    width: 100%;
+    height: 100%;
+    text-align: right;
+}
+.contenedor2img{
+    width: 50px;
+    height: 50px;
+    text-align: left;   
+}
+.contenedor2text{
+    font-size: 50px;
+    text-align: right;
+}
+.contenedor2text2{
+    font-size: 22px;
+    text-align: right;
+}
+
+button{
+    background:#1b6e7f;
+    color: white;
+    padding: 20px;
+    margin: 20px;   
+    width: 150px;
+    border: none;
+}
+p{
+    margin-left: 40px;
+}
